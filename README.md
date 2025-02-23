@@ -1,4 +1,4 @@
-# 📚 Estudos sobre Fork
+# 📚 Estudos sobre Fork (e Pull Requests)
 Fork de um Repositório a fim de estudos sobre o GitHub através da Formação GitHub Certification da DIO.me
 
 ## Jogo da Velha Colaborativo
